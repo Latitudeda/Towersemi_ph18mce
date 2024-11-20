@@ -1,4 +1,4 @@
-Tower Semiconductor PH18MCE Documentation
+Tower Semiconductor PH18MCE documentation
 ============================================
 
 .. toctree::

@@ -1,3 +1,3 @@
 labels.py
 =============
-Define the font type and font size used in towersemi_ph18mce pdk.
+Define the font type and font size used in towersemi_ph18mce PDK.
